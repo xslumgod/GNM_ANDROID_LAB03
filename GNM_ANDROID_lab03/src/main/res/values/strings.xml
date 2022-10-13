@@ -1,0 +1,33 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">GNM_Android_Lab03</string>
+
+    <!-- Текстовые константы -->
+    <string name="Мужчина">Мужчина</string>
+    <string name="Женщина">Женщина</string>
+    <string name="Кто_Вы">Добро пожаловать!</string>
+    <string name="Введите_Nickname">Ваш nickname в игре</string>
+    <string name="Укажите_пол">Ваш пол:</string>
+    <string name="мужчина">мужчина</string>
+    <string name="Выберите_сложность">Сложность:</string>
+    <string name="Выбирете_Название_Игры">Выберите название игры:</string>
+    <string name="Ваш_Профайл">Ваш Профайл</string>
+    <string name="Эксперт">Эксперт</string>
+    <string name="Средняя">Средняя</string>
+    <string name="Легкая">Легкая</string>
+    <string name="Сводные_данные">Ваш профайл:</string>
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+    <string name="Ваш_Nickname">Nickname:</string>
+    <string name="Ваш_пол">Ваш пол:</string>
+    <string name="Сложность">Сложность:</string>
+    <string name="Игра">Игра:</string>
+
+    <!-- Массив строк -->
+    <string-array name="game_arrays">
+        <item>Counter Strike Global Offensive</item>
+        <item>The Witcher</item>
+        <item>Metro 2033</item>
+    </string-array>
+
+</resources>
